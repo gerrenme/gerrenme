@@ -9,7 +9,7 @@
 <img width="33%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
 
 ## :disguised_face: About Me:
->- :bearded_person: Dmitriy Golubev
+>- :bearded_person: Dmitriy Golubev, 18 y.o.
 >- :desktop_computer: school21 student, learning ds&&ml
 >- :man_student: Computer Science Engineering
 >- :city_sunrise: Moscow, Russia
