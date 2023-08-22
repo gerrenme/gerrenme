@@ -48,7 +48,4 @@
 <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) -->
 
-## cringe
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARZZEZZAN&theme=highcontrast&hide_border=true&border_radius=4&mode=weekly)](https://git.io/streak-stats)
-
 
