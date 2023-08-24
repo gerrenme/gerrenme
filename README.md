@@ -2,7 +2,7 @@
 <h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 
 ![killua](https://github.com/gerrenme/gerrenme/assets/134530297/2ee33d10-b0fe-4bde-9543-2e6b69d48393)
-
+<h1  align="center">  ![killua](https://github.com/gerrenme/gerrenme/assets/134530297/2ee33d10-b0fe-4bde-9543-2e6b69d48393) <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img width="33%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
